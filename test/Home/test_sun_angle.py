@@ -12,5 +12,3 @@ def test_sunrise():
 
 def test_sunset():
     assert sun_angle.sun_angle("18:01") == "I don't see the sun!"
-
-def test_
